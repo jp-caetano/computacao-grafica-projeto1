@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apollo Lunar Module
+* source:	https://sketchfab.com/3d-models/apollo-lunar-module-c495d75f2a89496a89d92e92e42a4694
+* author:	OneBillionth LLC (https://sketchfab.com/onebillionth)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apollo Lunar Module" (https://sketchfab.com/3d-models/apollo-lunar-module-c495d75f2a89496a89d92e92e42a4694) by OneBillionth LLC (https://sketchfab.com/onebillionth) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
